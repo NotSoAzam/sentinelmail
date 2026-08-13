@@ -1,4 +1,4 @@
-# SentinelMail
+# Sentinel Mail
 
 **Email Security & OSINT Intelligence Platform**
 
@@ -424,7 +424,6 @@ Potential future improvements:
 
 This project is intended to be released as open source.
 
-If using the MIT License, add the official MIT `LICENSE` file to the repository.
 
 ## Author
 
@@ -438,6 +437,12 @@ SentinelMail is an actively developing cybersecurity research project focused on
 
 ---
 
+## Development Note
+
+This project was developed with the assistance of AI tools for code generation, debugging, documentation, and development support. The implementation was reviewed, tested, and adapted as part of the development process.
+
+
 **SentinelMail**
 
 Evidence-driven email security intelligence for authorized investigations and self-auditing.
+
