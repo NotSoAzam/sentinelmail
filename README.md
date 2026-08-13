@@ -422,8 +422,9 @@ Potential future improvements:
 
 ## License
 
-This project is intended to be released as open source.
+This project is licensed under the MIT License.
 
+See the [LICENSE](LICENSE) file for the full license text.
 
 ## Author
 
